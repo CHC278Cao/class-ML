@@ -1,1 +1,1 @@
-#SVM with cvxopt method
+SVM with cvxopt method
