@@ -1,2 +1,0 @@
-# SVM with cvxopt method
-  
